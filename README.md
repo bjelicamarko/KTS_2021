@@ -1,4 +1,4 @@
-# ASDF Tim - Informacioni sistem restorana 
+# Informacioni sistem restorana 
 - Konstrukcija i testiranje softvera 2021
 
 ## Članovi tima
